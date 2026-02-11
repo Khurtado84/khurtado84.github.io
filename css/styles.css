@@ -1,0 +1,12 @@
+.hero{
+  background: linear-gradient(135deg, #111827, #1f2937);
+  color: #fff;
+}
+
+.border-dashed{
+  border: 2px dashed #cbd5e1 !important;
+}
+
+.progress{
+  height: 10px;
+}
