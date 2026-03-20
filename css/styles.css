@@ -107,4 +107,14 @@
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   display: none !important;
+
+  
+
+  .hero {
+  margin-bottom: 0;
+  padding-bottom: 30px; /* ajusta si quieres menos */
+}
+
+.carrusel-pro {
+  margin-top: 0;
 }
