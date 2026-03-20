@@ -65,12 +65,6 @@
   display: none;
 }
 
-/* ===== FLECHAS DEL CARRUSEL ===== */
-.carrusel-pro .carousel-control-prev-icon,
-.carrusel-pro .carousel-control-next-icon {
-  filter: invert(1);
-  background-size: 70% 70%;
-}
 
 /* ===== ANIMACIÓN ===== */
 @keyframes fadeInUp {
