@@ -6,7 +6,7 @@
       rgba(0,0,0,0.6),
       rgba(0,0,0,0.7)
     ),
-    url('../img/107.jpg'); /* 👈 CORREGIDO */
+    url('../img/107.jpg'); 
 
   background-size: cover;
   background-position: center;
@@ -99,4 +99,12 @@
   .carousel-texto p {
     font-size: 0.9rem;
   }
+}
+
+
+.carousel-control-prev,
+.carousel-control-next,
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  display: none !important;
 }
