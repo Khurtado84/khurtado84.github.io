@@ -121,21 +121,7 @@
     object-fit: cover;
   }
 
-  .carousel-caption-custom {
-    left: 6%;
-    right: 6%;
-    bottom: 10%;
-    max-width: 100%;
-  }
-
-  .carousel-caption-custom h2 {
-    font-size: 1.2rem;
-  }
-
-  .carousel-caption-custom p {
-    font-size: 0.9rem;
-    margin-bottom: 10px;
-  }
+  
 }
 /* ===== HERO PRO ===== */
 .hero {
@@ -184,4 +170,20 @@
     opacity: 1;
     transform: translateY(0);
   }
+}
+.carousel-texto {
+  background: #111827;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+.carousel-texto h2 {
+  font-size: 1.4rem;
+  margin-bottom: 5px;
+}
+
+.carousel-texto p {
+  font-size: 0.95rem;
+  color: #d1d5db;
 }
