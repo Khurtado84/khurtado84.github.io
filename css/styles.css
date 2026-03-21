@@ -83,7 +83,7 @@
 /* ===== HERO RESPONSIVE ===== */
 @media (max-width: 768px) {
   .hero {
-    min-height: 60vh; /* antes 90vh */
+    min-height: 70vh; /* antes 90vh */
     padding: 60px 0;
   }
 
@@ -94,6 +94,7 @@
   .hero p {
     font-size: 0.95rem;
   }
+
 }
 
   .carrusel-pro .carousel-item img {
@@ -109,13 +110,6 @@
   }
 
 
-.carousel-control-prev,
-.carousel-control-next,
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-  display: none !important;
-}
-  
 
   .hero {
   margin-bottom: 0;
