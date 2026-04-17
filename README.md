@@ -1,1 +1,1 @@
-mi portafolio pagina de prueba
+mi portafolio pagina que muestra algo de mis conocimientos
